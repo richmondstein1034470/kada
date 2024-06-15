@@ -62,7 +62,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": rx/yada,
+            "algo": "rx/yada",
             "coin": null,
             "url": "yadapool.org:3333",
             "user": "14uQLAHyifo4AVBh7et2UXMiP3T2DYJAXP",
